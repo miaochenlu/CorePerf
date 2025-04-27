@@ -1,5 +1,4 @@
 # CorePerf
-# CorePerf
 
 **Table 1: Application Processor (AP) Core Comparison**
 
